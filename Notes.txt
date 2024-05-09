@@ -63,3 +63,5 @@ Comments: -> Ctrl + /
 Break tag:   <br> empty tag
 
 Horizontal line: <hr> empty tag
+
+align -> to move the text towards the left, center or right hand side
