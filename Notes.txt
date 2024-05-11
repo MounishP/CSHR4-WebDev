@@ -65,3 +65,6 @@ Break tag:   <br> empty tag
 Horizontal line: <hr> empty tag
 
 align -> to move the text towards the left, center or right hand side
+
+Fieldset -> used to group related elements in a form
+Legend -> gives a title for the group
