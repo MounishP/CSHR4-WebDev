@@ -68,3 +68,50 @@ align -> to move the text towards the left, center or right hand side
 
 Fieldset -> used to group related elements in a form
 Legend -> gives a title for the group
+
+------------------------------------------------------------------------------------------------------------------------------------
+CSS -> Cascading Styling Sheet
+CSS is used to style HTML elements.
+
+Uses: 
+ 1. To style HTML elements
+ 2. Visually it will good
+ 3. To make the website responsive
+
+CSS1 -> 1996 -> basic Styling
+CSS2 -> 1998 -> layout styling 
+CSS2.1 -> 2004 -> box model
+CSS3 -> 2011 -> animations, model queries and web fonts
+CSS4 -> 2019 -> media queries
+
+Why learn CSS?
+1. Visual Appeal
+2. Responsive Design
+3. SEO(Search Engine Optimization) supported
+4. Maintaince is easy
+5. Career Opportunties -> Frontend, Web Designer, Full stack Developer
+6. Easy to learn
+
+Implementation:
+
+1. Inline
+2. Internal
+3. External
+
+CSS Syntax:
+
+    selector {Property: value;}      
+
+CSS Comments:
+
+    /* content */
+
+    /* Hi 
+    This is a comment */
+
+    Ctrl + / -> shortcut
+
+CSS Colours:
+    1. Built-in
+    2. RGB(Red, Green, Blue) -> 0 to 255
+    3. RGBA
