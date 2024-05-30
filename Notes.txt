@@ -114,4 +114,20 @@ CSS Comments:
 CSS Colours:
     1. Built-in
     2. RGB(Red, Green, Blue) -> 0 to 255
-    3. RGBA
+    3. RGBA (A- alpha -> transparency)
+    4. HexaDecimal -> 0 - 9, A-F
+    5. HSL -> Hue, Saturation, Lightness
+    6. HSLA -> Alpha 
+
+CSS Border
+    1. Style
+    2. Width
+    3. Radius
+
+    Uses:
+        1. Styling buttons
+        2. Creating dividers
+        3. Navigation menu
+
+CSS Margins:
+    Defining the space around the elements.
