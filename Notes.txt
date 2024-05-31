@@ -131,3 +131,12 @@ CSS Border
 
 CSS Margins:
     Defining the space around the elements.
+
+CSS Height & Width
+
+CSS Fonts
+    can be printable or display which as style and size.
+    1. Font Style
+    2. Font Size
+
+CSS icons
