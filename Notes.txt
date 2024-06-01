@@ -140,3 +140,13 @@ CSS Fonts
     2. Font Size
 
 CSS icons
+
+CSS Links
+    link -> connection from one web page/ place to another web page
+
+CSS List
+    1. Ordered -> numbers, letters, romans
+    2. Unordered -> bullet (circles, squares..etc)
+
+
+CSS Display - todo
