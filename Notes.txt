@@ -149,4 +149,16 @@ CSS List
     2. Unordered -> bullet (circles, squares..etc)
 
 
-CSS Display - todo
+CSS Display 
+    specifies an element's display behavior.
+
+CSS Positioning elements
+
+CSS Overflow
+: block but text is more than the block
+1. Visible
+2. Hidden
+3. Scroll
+4. Auto
+
+CSS Transitions
