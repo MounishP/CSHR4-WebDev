@@ -162,3 +162,70 @@ CSS Overflow
 4. Auto
 
 CSS Transitions
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+JavaScr.ipt
+
+What is JS?
+    lightweight, cross-platform, single-threaded and interpreted compiled Programming Language.
+    scripting of webpages.
+    Dynamically code languages.
+
+
+C,C++,Java
+    int a = 5;
+
+JS, Python:
+    a = "Mounish";
+
+Founded -> 1995 May
+Founder -> Eich Brendan
+Primary -> Mocha
+1997 -> Renamed it as JS
+
+Versions:
+1997 - ES1
+1998 - ES2
+1999 - ES3
+Build - ES4
+2009 - ES5
+2015 - ES6
+Currently - ES.NEST -> NextJs
+
+------->
+
+JS in HTML
+
+1. Head tag
+2. Body tag
+3. External page
+
+<script> js code </script>
+
+--> JS Statements:
+1. every line ends with a semicolon(;)
+
+-->JS Keywords:
+    1. var -> used to declare a variable. Variable is something you store a value and represent it.
+    a = 5; -> a is variable.
+
+    2. let -> used to declare a block variable.
+    let a , b, c;
+    a = 5;
+    b = 4;
+    c = 3;
+
+    3. function -> used to declaring a block of code '{}'.
+        Uses: code re-usability
+
+-> JS Operators:
+    1. Arithmetic -> +,-,*,/,%(modulus) -> remainder,**(exponential)->power, ++(incremental),--(decremental)
+    2. Assignment
+    3. Comparison
+    4. Logical
+    5. String
+ 
+ a = "java"
+ b = "script"
+ c = a + " " + b; -> concatination
